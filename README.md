@@ -322,14 +322,7 @@ The application uses SLF4J with Logback for structured logging. Log levels can b
 - Maintain minimum 80% test coverage
 - Document all public APIs
 - Use conventional commit messages
-
-## Support & Documentation
-
-### Additional Resources
-- **Complete API Documentation**: [Postman Collection](https://kxld-4969301.postman.co/workspace/Paramesh-workspace~638a0202-4881-45c9-8a40-544f0617cade/collection/44593529-2675fe79-4de0-4310-8d53-32bd0f045916?action=share&creator=44593529)
-- **Issue Tracking**: GitHub Issues
-- **Technical Support**: parameshdarshan1234@gmail.com
-
+- 
 ### Version Information
 - **Current Version**: 1.0.0
 - **Minimum Java Version**: 17
@@ -341,6 +334,7 @@ This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md)
 
 ---
 
-**Developed by**: Paramesh N  
-**Contact**: [GitHub](https://github.com/parameshn) | [LinkedIn](https://www.linkedin.com/in/paramesh-n-70464b256)  
-**Project Repository**: https://github.com/parameshn/corporate-climber
+**Developed by**: Darshith C 
+
+**Contact**: [GitHub](https://github.com/DarshithC) | [LinkedIn](https://www.linkedin.com/in/darshith-c-b14532258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+**Project Repository**: https://github.com/DarshithC/Corporate-Climber
